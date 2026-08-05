@@ -1,9 +1,9 @@
 ## 🌌 Olá, eu sou a Polly
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de software** 
-🚀 Apaixonada por **tecnologia, design e o impacto real das ideias** 
-🎯 Determinada, curiosa e sempre em busca de entender o *porquê das coisas*  
-🎨 Quando não estou programando, gosto de pintar e escrever — porque código também é arte.
+- 💻 Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de software** 
+- 🚀 Apaixonada por **tecnologia, design e o impacto real das ideias** 
+- 🎯 Determinada, curiosa e sempre em busca de entender o *porquê das coisas*  
+- 🎨 Quando não estou programando, gosto de pintar e escrever — porque código também é arte.
 
 ---
 
